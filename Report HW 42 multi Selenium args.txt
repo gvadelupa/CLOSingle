@@ -1,0 +1,51 @@
+irinas-MacBook-Pro:CLOSingle irinagolovko$ java -jar /Users/irinagolovko/Documents/Workspace/CLOSingle/target/CLOSingle-1.0.2-jar-with-dependencies.jar -l "http://www.learn2test.net|learn2test.net" "http:www.learn2test.net|reduse" "http:www.macys.com|Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com" "http:wellsfargo.com|Wells Fargo - Personal & Business Banking - Student, Auto & Home Loans - Investing & Insurance"
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http:www.learn2test.net
+Title Expected: 	reduse
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.03
+URL: 			http:www.macys.com
+Title Expected: 	Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com
+Title Actual: 		Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.04
+URL: 			http:wellsfargo.com
+Title Expected: 	Wells Fargo - Personal & Business Banking - Student
+Title Actual: 		Wells Fargo - Personal & Business Banking - Student, Auto & Home Loans - Investing & Insurance
+Test Case Result: 	FAILED
+
+
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http:www.learn2test.net
+Title Expected: 	reduse
+Title Actual: 		learn2test.net
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.03
+URL: 			http:www.macys.com
+Title Expected: 	Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com
+Title Actual: 		Macy's - Shop Fashion Clothing & Accessories - Official Site - Macys.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.04
+URL: 			http:wellsfargo.com
+Title Expected: 	Wells Fargo - Personal & Business Banking - Student, Auto & Home Loans - Investing & Insurance
+Title Actual: 		Wells Fargo - Personal & Business Banking - Student, Auto & Home Loans - Investing & Insurance
+Test Case Result: 	PASSED

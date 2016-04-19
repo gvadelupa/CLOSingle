@@ -1,0 +1,14 @@
+irinas-MacBook-Pro:target irinagolovko$ java -jar /Users/irinagolovko/Documents/Workspace/CLOSingle/target/CLOSingle-1.0.1-jar-with-dependencies.jar
+Test Case ID: 		TC-001.01
+URL: 			http://www.sfyc.org
+Title Expected: 	San Francisco Yacht Club - San Francisco Yacht Club
+Title Actual: 		San Francisco Yacht Club - San Francisco Yacht Club
+Test Case Result: 	PASSED
+
+irinas-MacBook-Pro:target irinagolovko$ java -jar /Users/irinagolovko/Documents/Workspace/CLOSingle/target/CLOSingle-1.0.1-jar-with-dependencies.jar -u "http://www.ea.com" -t "EA Games -Electronic Arts" -c "TC-001.02"
+Test Case ID: 		TC-001.02
+URL: 			http://www.ea.com
+Title Expected: 	EA Games -Electronic Arts
+Title Actual: 		EA Games - Electronic Arts
+Test Case Result: 	FAILED
+irinas-MacBook-Pro:target irinagolovko$
